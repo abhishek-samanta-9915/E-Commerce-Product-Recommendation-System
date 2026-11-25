@@ -2,6 +2,14 @@
 
 A menu-driven C-language academic project demonstrating a simple rule-based product recommender.
 
+## Team Members
+
+| S. No. | Name | Roll Number |
+|---:|---|---|
+| 1 | Abhishek Samanta | 02896303125 |
+| 2 | Aishwarya Singh | 00996303125 |
+| 3 | Khushi Joshi | 03596303125 |
+
 ## Features
 - Browse a sample catalogue of 14 products across Electronics, Fashion, Books and Home.
 - Set a preferred category, maximum budget and minimum rating.
